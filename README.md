@@ -1,4 +1,4 @@
-# # Credit_Risk: Quantitative Probability of Default (PD) Modeling
+#  Credit_Risk: Quantitative Probability of Default (PD) Modeling
 
 ## 1. Executive Summary
 This project develops a robust **Credit Scoring Engine** designed to predict the likelihood of a borrower failing to meet loan obligations. Using the LendingClub dataset, I developed a **Random Forest Ensemble** pipeline that incorporates advanced data balancing techniques and discriminatory analytics to assist in institutional risk decision-making.
